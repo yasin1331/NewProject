@@ -1,0 +1,10 @@
+22:52:45.856 [TestNG-tests-1] DEBUG testcases.LoginTestCase - Browser got Launched
+22:52:47.387 [TestNG-tests-1] DEBUG testcases.LoginTestCase - navigated to url
+22:52:47.630 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on my account
+22:52:47.923 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+22:52:48.058 [TestNG-tests-1] DEBUG testcases.LoginTestCase - email got enterd
+22:52:48.141 [TestNG-tests-1] DEBUG testcases.LoginTestCase - password got entered
+22:52:48.617 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+22:52:48.717 [TestNG-tests-1] DEBUG testcases.LoginTestCase - user got login
+22:52:48.719 [TestNG-tests-1] INFO  testcases.LoginTestCase - test got passed
+22:52:48.877 [TestNG-tests-1] DEBUG testcases.LoginTestCase - browser got closed

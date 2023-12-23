@@ -1,0 +1,128 @@
+16:24:36.959 [main] DEBUG testcases.LoginTestCase - Browser got Launched
+16:24:38.092 [main] DEBUG testcases.LoginTestCase - navigated to url
+16:24:38.175 [main] DEBUG testcases.LoginTestCase - clicked on my account
+16:24:38.374 [main] DEBUG testcases.LoginTestCase - clicked on login button
+16:24:38.452 [main] DEBUG testcases.LoginTestCase - email got enterd
+16:24:38.497 [main] DEBUG testcases.LoginTestCase - password got entered
+16:24:38.829 [main] DEBUG testcases.LoginTestCase - clicked on login button
+16:24:38.889 [main] DEBUG testcases.LoginTestCase - user got login
+16:24:38.978 [main] DEBUG testcases.LoginTestCase - browser got closed
+16:24:39.739 [main] DEBUG testcases.LoginTestCase - Browser got Launched
+16:24:40.639 [main] DEBUG testcases.LoginTestCase - navigated to url
+16:24:40.683 [main] DEBUG testcases.LoginTestCase - clicked on my account
+16:24:40.874 [main] DEBUG testcases.LoginTestCase - clicked on login button
+16:24:40.957 [main] DEBUG testcases.LoginTestCase - email got enterd
+16:24:41.008 [main] DEBUG testcases.LoginTestCase - password got entered
+16:24:41.279 [main] DEBUG testcases.LoginTestCase - clicked on login button
+16:24:51.337 [main] DEBUG testcases.LoginTestCase - use didn't login
+16:24:51.397 [main] DEBUG testcases.LoginTestCase - browser got closed
+16:46:16.730 [main] DEBUG testcases.LoginTestCase - Browser got Launched
+16:46:17.885 [main] DEBUG testcases.LoginTestCase - navigated to url
+16:46:17.944 [main] DEBUG testcases.LoginTestCase - clicked on my account
+16:46:18.139 [main] DEBUG testcases.LoginTestCase - clicked on login button
+16:46:18.217 [main] DEBUG testcases.LoginTestCase - email got enterd
+16:46:18.263 [main] DEBUG testcases.LoginTestCase - password got entered
+16:46:18.618 [main] DEBUG testcases.LoginTestCase - clicked on login button
+16:46:18.670 [main] DEBUG testcases.LoginTestCase - user got login
+16:46:18.671 [main] INFO  testcases.LoginTestCase - test got passed
+16:46:18.756 [main] DEBUG testcases.LoginTestCase - browser got closed
+16:53:17.527 [TestNG-tests-1] DEBUG testcases.LoginTestCase - Browser got Launched
+16:53:18.821 [TestNG-tests-1] DEBUG testcases.LoginTestCase - navigated to url
+16:53:18.933 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on my account
+16:53:19.510 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+16:53:19.581 [TestNG-tests-1] DEBUG testcases.LoginTestCase - email got enterd
+16:53:19.626 [TestNG-tests-1] DEBUG testcases.LoginTestCase - password got entered
+16:53:19.984 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+16:53:20.021 [TestNG-tests-1] DEBUG testcases.LoginTestCase - user got login
+16:53:20.023 [TestNG-tests-1] INFO  testcases.LoginTestCase - test got passed
+16:53:20.103 [TestNG-tests-1] DEBUG testcases.LoginTestCase - browser got closed
+17:43:02.669 [TestNG-tests-1] DEBUG testcases.LoginTestCase - Browser got Launched
+17:43:04.746 [TestNG-tests-1] DEBUG testcases.LoginTestCase - navigated to url
+17:43:04.840 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on my account
+17:43:05.074 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+17:43:05.138 [TestNG-tests-1] DEBUG testcases.LoginTestCase - email got enterd
+17:43:05.179 [TestNG-tests-1] DEBUG testcases.LoginTestCase - password got entered
+17:43:05.541 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+17:43:05.580 [TestNG-tests-1] DEBUG testcases.LoginTestCase - user got login
+17:43:05.581 [TestNG-tests-1] INFO  testcases.LoginTestCase - test got passed
+17:43:05.656 [TestNG-tests-1] DEBUG testcases.LoginTestCase - browser got closed
+17:43:53.060 [TestNG-tests-1] DEBUG testcases.LoginTestCase - Browser got Launched
+17:43:54.260 [TestNG-tests-1] DEBUG testcases.LoginTestCase - navigated to url
+17:43:54.406 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on my account
+17:43:54.683 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+17:43:54.743 [TestNG-tests-1] DEBUG testcases.LoginTestCase - email got enterd
+17:43:54.786 [TestNG-tests-1] DEBUG testcases.LoginTestCase - password got entered
+17:43:55.124 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+17:43:55.178 [TestNG-tests-1] DEBUG testcases.LoginTestCase - user got login
+17:43:55.180 [TestNG-tests-1] INFO  testcases.LoginTestCase - test got passed
+17:43:55.258 [TestNG-tests-1] DEBUG testcases.LoginTestCase - browser got closed
+17:45:20.628 [TestNG-tests-1] DEBUG testcases.LoginTestCase - Browser got Launched
+17:45:21.120 [TestNG-tests-1] DEBUG testcases.LoginTestCase - navigated to url
+17:45:22.138 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on my account
+17:45:22.372 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+17:45:22.450 [TestNG-tests-1] DEBUG testcases.LoginTestCase - email got enterd
+17:45:22.496 [TestNG-tests-1] DEBUG testcases.LoginTestCase - password got entered
+17:45:22.883 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+17:45:22.917 [TestNG-tests-1] DEBUG testcases.LoginTestCase - user got login
+17:45:22.918 [TestNG-tests-1] INFO  testcases.LoginTestCase - test got passed
+17:45:23.008 [TestNG-tests-1] DEBUG testcases.LoginTestCase - browser got closed
+17:52:14.225 [TestNG-tests-1] DEBUG testcases.LoginTestCase - Browser got Launched
+17:52:15.816 [TestNG-tests-1] DEBUG testcases.LoginTestCase - navigated to url
+17:52:15.907 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on my account
+17:52:16.127 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+17:52:16.188 [TestNG-tests-1] DEBUG testcases.LoginTestCase - email got enterd
+17:52:16.230 [TestNG-tests-1] DEBUG testcases.LoginTestCase - password got entered
+17:52:16.622 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+17:52:16.660 [TestNG-tests-1] DEBUG testcases.LoginTestCase - user got login
+17:52:16.661 [TestNG-tests-1] INFO  testcases.LoginTestCase - test got passed
+17:52:16.741 [TestNG-tests-1] DEBUG testcases.LoginTestCase - browser got closed
+22:18:15.696 [main] DEBUG testcases.LoginTestCase - Browser got Launched
+22:18:18.732 [main] DEBUG testcases.LoginTestCase - navigated to url
+22:18:18.860 [main] DEBUG testcases.LoginTestCase - clicked on my account
+22:18:19.152 [main] DEBUG testcases.LoginTestCase - clicked on login button
+22:18:19.293 [main] DEBUG testcases.LoginTestCase - email got enterd
+22:18:19.365 [main] DEBUG testcases.LoginTestCase - password got entered
+22:18:19.990 [main] DEBUG testcases.LoginTestCase - clicked on login button
+22:18:20.064 [main] DEBUG testcases.LoginTestCase - user got login
+22:18:20.066 [main] INFO  testcases.LoginTestCase - test got passed
+22:18:20.232 [main] DEBUG testcases.LoginTestCase - browser got closed
+22:21:49.017 [main] DEBUG testcases.LoginTestCase - Browser got Launched
+22:21:50.257 [main] DEBUG testcases.LoginTestCase - navigated to url
+22:21:50.369 [main] DEBUG testcases.LoginTestCase - clicked on my account
+22:21:50.691 [main] DEBUG testcases.LoginTestCase - clicked on login button
+22:21:50.932 [main] DEBUG testcases.LoginTestCase - email got enterd
+22:21:51.000 [main] DEBUG testcases.LoginTestCase - password got entered
+22:21:51.443 [main] DEBUG testcases.LoginTestCase - clicked on login button
+22:21:51.509 [main] DEBUG testcases.LoginTestCase - user got login
+22:21:51.510 [main] INFO  testcases.LoginTestCase - test got passed
+22:21:51.626 [main] DEBUG testcases.LoginTestCase - browser got closed
+22:25:58.197 [main] DEBUG testcases.LoginTestCase - Browser got Launched
+22:25:59.525 [main] DEBUG testcases.LoginTestCase - navigated to url
+22:25:59.623 [main] DEBUG testcases.LoginTestCase - clicked on my account
+22:25:59.886 [main] DEBUG testcases.LoginTestCase - clicked on login button
+22:26:00.107 [main] DEBUG testcases.LoginTestCase - email got enterd
+22:26:00.226 [main] DEBUG testcases.LoginTestCase - password got entered
+22:26:00.742 [main] DEBUG testcases.LoginTestCase - clicked on login button
+22:26:00.855 [main] DEBUG testcases.LoginTestCase - user got login
+22:26:00.857 [main] INFO  testcases.LoginTestCase - test got passed
+22:26:01.019 [main] DEBUG testcases.LoginTestCase - browser got closed
+22:35:19.699 [TestNG-tests-1] DEBUG testcases.LoginTestCase - Browser got Launched
+22:35:21.352 [TestNG-tests-1] DEBUG testcases.LoginTestCase - navigated to url
+22:35:21.577 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on my account
+22:35:21.884 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+22:35:22.040 [TestNG-tests-1] DEBUG testcases.LoginTestCase - email got enterd
+22:35:22.109 [TestNG-tests-1] DEBUG testcases.LoginTestCase - password got entered
+22:35:22.671 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+22:35:22.836 [TestNG-tests-1] DEBUG testcases.LoginTestCase - user got login
+22:35:22.839 [TestNG-tests-1] INFO  testcases.LoginTestCase - test got passed
+22:35:22.957 [TestNG-tests-1] DEBUG testcases.LoginTestCase - browser got closed
+22:44:47.876 [TestNG-tests-1] DEBUG testcases.LoginTestCase - Browser got Launched
+22:44:49.399 [TestNG-tests-1] DEBUG testcases.LoginTestCase - navigated to url
+22:44:49.549 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on my account
+22:44:49.850 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+22:44:49.998 [TestNG-tests-1] DEBUG testcases.LoginTestCase - email got enterd
+22:44:50.092 [TestNG-tests-1] DEBUG testcases.LoginTestCase - password got entered
+22:44:50.654 [TestNG-tests-1] DEBUG testcases.LoginTestCase - clicked on login button
+22:44:50.720 [TestNG-tests-1] DEBUG testcases.LoginTestCase - user got login
+22:44:50.722 [TestNG-tests-1] INFO  testcases.LoginTestCase - test got passed
+22:44:50.860 [TestNG-tests-1] DEBUG testcases.LoginTestCase - browser got closed
