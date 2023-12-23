@@ -15,6 +15,7 @@ public class test2 extends Base {
 	@Test
 	public void testtwo() throws IOException, InterruptedException {
 		System.out.println("this script is updated by the Anas");
+		system.out.println("this script is updated by Asqhi")
 		System.out.println("test 2 executed");
 		driver = intializeDriver();
 		driver.get("https://tutorialsninja.com/demo/");
